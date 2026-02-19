@@ -93,7 +93,7 @@
                 <h2>{{ $product['name'] }}</h2>
                 <p>{{ $product['description'] }}</p>
                 <div class="price">{{ $product['price'] }}</div>
-                <a href="#" class="btn">Viewdetails</a>
+                <a href="#" class="btn">View Details</a>
             </div>
         @endforeach
     </div>
